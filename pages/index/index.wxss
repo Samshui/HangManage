@@ -1,0 +1,39 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+  border: 2px #ffffff solid;
+}
+
+.userinfo-nickname {
+  color: #ffffff;
+}
+
+.usermotto {
+  margin-top: 200px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  border: 2px #ffffff solid;
+  color: #ffffff;
+}
+
+.usermotto:hover {
+  background-color: white;
+  color: black;
+}
+
+.log-index {
+  background-image: url("https://wallpaperaccess.com/full/1975181.jpg");
+  background-size: 750rpx 1400rpx;
+}
