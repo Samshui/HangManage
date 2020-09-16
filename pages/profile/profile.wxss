@@ -13,7 +13,7 @@
 
 .op-list {
     margin-top: 10px;
-    border: 1px yellow solid;
+    border: 1px #a1ff36 solid;
     width: 750rpx;
     height: 400rpx;
 }

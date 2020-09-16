@@ -13,15 +13,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1352c5b6-83af-4611-8ef4-3f5059e2fcae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1352c5b6-83af-4611-8ef4-3f5059e2fcae" name="Default Changelist" comment="扩充了个人页面">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/profile/profile.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/profile/profile.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +74,16 @@
       <updated>1600247950209</updated>
       <workItem from="1600247951313" duration="70000" />
       <workItem from="1600248060880" duration="12564000" />
-      <workItem from="1600267551690" duration="748000" />
+      <workItem from="1600267551690" duration="3104000" />
     </task>
+    <task id="LOCAL-00001" summary="扩充了个人页面">
+      <created>1600268484568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600268484568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +100,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="扩充了个人页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="扩充了个人页面" />
   </component>
   <component name="WindowStateProjectService">
     <state x="494" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600247954072">
