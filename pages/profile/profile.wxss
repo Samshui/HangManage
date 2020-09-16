@@ -1,0 +1,19 @@
+.user-info {
+    border: 1px red solid;
+    width: 750rpx;
+    height: 300rpx;
+}
+
+.id-and-phone {
+    margin-top: 10px;
+    border: 1px blue solid;
+    width: 750rpx;
+    height: 300rpx;
+}
+
+.op-list {
+    margin-top: 10px;
+    border: 1px yellow solid;
+    width: 750rpx;
+    height: 400rpx;
+}

@@ -4,35 +4,22 @@ const app = getApp()
 
 Page({
   data: {
-    motto: '进入Demo',
+    motto: '进入Demo -- ',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
   },
   //事件处理函数
   bindViewTap: function() {
-    wx.navigateTo({
+    wx.switchTab({
       url: '../logs/logs'
     })
   },
   talkWaring: function (){
     console.log('you click the \'hello world\'')
     // alert('this is a waring!')
-    wx.showToast({
-      title: 'this is a waring!',
-      icon: 'success', // only support success or loading
-      duration: 2000,
-      mask: true, //蒙层 - default: false
-      success(res) {
-        console.log('success - tap - res',res)
-        wx.navigateTo({
-          url: '../logs/logs'
-        })
-      }
-      /**
-       * success: function(){},
-       * fail: function(){}
-       */
+    wx.switchTab({
+      url: '../profile/profile'
     })
   },
   onLoad: function () {
