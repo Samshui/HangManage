@@ -1,19 +1,45 @@
 .user-info {
+    background: #c4e0ff;
     border: 1px red solid;
     width: 750rpx;
     height: 300rpx;
 }
 
 .id-and-phone {
-    margin-top: 10px;
     border: 1px blue solid;
     width: 750rpx;
     height: 300rpx;
 }
 
 .op-list {
-    margin-top: 10px;
-    border: 1px #a1ff36 solid;
+    border: 1px black solid;
     width: 750rpx;
     height: 400rpx;
+}
+
+.user-headshot-outer {
+}
+
+.user-name-outer {
+    text-align: center;
+}
+
+.user-name {
+    font-family: "JetBrains Mono",KaiTi;
+    border: 1px #626262 solid;
+    width: auto;
+    background: white;
+    padding-left: 10rpx;
+    padding-right: 10rpx;
+    padding-top: 3rpx;
+    padding-bottom: 2rpx;
+    border-radius: 5px;
+}
+
+.user-headshot {
+    border: 1px #ffffff solid;
+    width: 100rpx;
+    height: 100rpx;
+    border-radius: 50%;
+    margin-left: 325rpx;
 }

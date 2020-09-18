@@ -1,5 +1,11 @@
 <view class="container">
     <view class="user-info">
+        <view>
+            <image src="../../img/headshot.jpg" class="user-headshot"></image>
+        </view>
+        <view class="user-name-outer">
+            <text class="user-name">航管家</text>
+        </view>
 
     </view>
     <view class="id-and-phone">

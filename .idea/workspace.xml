@@ -14,10 +14,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1352c5b6-83af-4611-8ef4-3f5059e2fcae" name="Default Changelist" comment="扩充了个人页面">
+      <change afterPath="$PROJECT_DIR$/img/headshot.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/profile/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/profile/profile.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/profile/profile.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pages/profile/profile.wxss" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1haSwlc6nlJWvpmCW9xrvOVittV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -55,7 +62,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -74,7 +81,8 @@
       <updated>1600247950209</updated>
       <workItem from="1600247951313" duration="70000" />
       <workItem from="1600248060880" duration="12564000" />
-      <workItem from="1600267551690" duration="3104000" />
+      <workItem from="1600267551690" duration="4071000" />
+      <workItem from="1600308024074" duration="8135000" />
     </task>
     <task id="LOCAL-00001" summary="扩充了个人页面">
       <created>1600268484568</created>
@@ -83,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600268484568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="扩充了个人页面">
+      <created>1600271450715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600271450715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,21 +129,21 @@
       <screen x="89" y="0" width="1447" height="864" />
     </state>
     <state x="840" y="177" key="FileChooserDialogImpl/89.0.1447.864@89.0.1447.864" timestamp="1600256290816" />
-    <state x="352" y="0" key="SettingsEditor" timestamp="1600256123481">
+    <state x="212" y="94" key="SettingsEditor" timestamp="1600326192886">
       <screen x="89" y="0" width="1447" height="864" />
     </state>
-    <state x="352" y="0" key="SettingsEditor/89.0.1447.864@89.0.1447.864" timestamp="1600256123481" />
-    <state x="655" y="164" key="Vcs.Push.Dialog.v2" timestamp="1600256544616">
+    <state x="212" y="94" key="SettingsEditor/89.0.1447.864@89.0.1447.864" timestamp="1600326192886" />
+    <state x="655" y="164" key="Vcs.Push.Dialog.v2" timestamp="1600271455543">
       <screen x="89" y="0" width="1447" height="864" />
     </state>
-    <state x="655" y="164" key="Vcs.Push.Dialog.v2/89.0.1447.864@89.0.1447.864" timestamp="1600256544616" />
+    <state x="655" y="164" key="Vcs.Push.Dialog.v2/89.0.1447.864@89.0.1447.864" timestamp="1600271455543" />
     <state x="861" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600256311764">
       <screen x="89" y="0" width="1447" height="864" />
     </state>
     <state x="861" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/89.0.1447.864@89.0.1447.864" timestamp="1600256311764" />
-    <state x="726" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1600257087665">
+    <state x="726" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1600324459752">
       <screen x="89" y="0" width="1447" height="864" />
     </state>
-    <state x="726" y="185" width="672" height="678" key="search.everywhere.popup/89.0.1447.864@89.0.1447.864" timestamp="1600257087665" />
+    <state x="726" y="185" width="672" height="678" key="search.everywhere.popup/89.0.1447.864@89.0.1447.864" timestamp="1600324459752" />
   </component>
 </project>
