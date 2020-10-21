@@ -14,11 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1352c5b6-83af-4611-8ef4-3f5059e2fcae" name="Default Changelist" comment="扩充了个人页面">
-      <change afterPath="$PROJECT_DIR$/img/headshot.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/profile/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/logs/logs.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/logs/logs.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/profile/profile.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/profile/profile.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
@@ -83,6 +81,7 @@
       <workItem from="1600248060880" duration="12564000" />
       <workItem from="1600267551690" duration="4071000" />
       <workItem from="1600308024074" duration="8135000" />
+      <workItem from="1603269798106" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="扩充了个人页面">
       <created>1600268484568</created>
@@ -129,10 +128,10 @@
       <screen x="89" y="0" width="1447" height="864" />
     </state>
     <state x="840" y="177" key="FileChooserDialogImpl/89.0.1447.864@89.0.1447.864" timestamp="1600256290816" />
-    <state x="212" y="94" key="SettingsEditor" timestamp="1600326192886">
+    <state x="411" y="20" key="SettingsEditor" timestamp="1603270245779">
       <screen x="89" y="0" width="1447" height="864" />
     </state>
-    <state x="212" y="94" key="SettingsEditor/89.0.1447.864@89.0.1447.864" timestamp="1600326192886" />
+    <state x="411" y="20" key="SettingsEditor/89.0.1447.864@89.0.1447.864" timestamp="1603270245779" />
     <state x="655" y="164" key="Vcs.Push.Dialog.v2" timestamp="1600271455543">
       <screen x="89" y="0" width="1447" height="864" />
     </state>

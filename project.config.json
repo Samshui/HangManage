@@ -22,7 +22,7 @@
         "uploadWithSourceMap": true,
         "compileHotReLoad": false,
         "useMultiFrameRuntime": true,
-        "useApiHook": false,
+        "useApiHook": true,
         "babelSetting": {
             "ignore": [],
             "disablePlugins": [],
@@ -36,8 +36,8 @@
     },
     "compileType": "miniprogram",
     "libVersion": "2.13.0",
-    "appid": "wxde5d71feac1a38d2",
-    "projectname": "WDemo",
+    "appid": "wxbec118d58494c8e0",
+    "projectname": "HangManage",
     "debugOptions": {
         "hidedInDevtools": []
     },
