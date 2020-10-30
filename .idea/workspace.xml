@@ -9,17 +9,26 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1352c5b6-83af-4611-8ef4-3f5059e2fcae" name="Default Changelist" comment="扩充了个人页面">
+    <list default="true" id="1352c5b6-83af-4611-8ef4-3f5059e2fcae" name="Default Changelist" comment="重置了小程序">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/logs/logs.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/logs/logs.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/profile/profile.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/profile/profile.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile/profile.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +44,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -81,7 +95,10 @@
       <workItem from="1600248060880" duration="12564000" />
       <workItem from="1600267551690" duration="4071000" />
       <workItem from="1600308024074" duration="8135000" />
-      <workItem from="1603269798106" duration="787000" />
+      <workItem from="1603269798106" duration="983000" />
+      <workItem from="1603623527226" duration="87000" />
+      <workItem from="1603623646255" duration="911000" />
+      <workItem from="1604055429171" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="扩充了个人页面">
       <created>1600268484568</created>
@@ -97,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600271450715</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="重置了小程序">
+      <created>1603270615567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603270615567</updated>
+    </task>
+    <task id="LOCAL-00004" summary="重置了小程序">
+      <created>1603270644124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603270644124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,25 +148,28 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="扩充了个人页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="扩充了个人页面" />
+    <MESSAGE value="重置了小程序" />
+    <option name="LAST_COMMIT_MESSAGE" value="重置了小程序" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600247954072">
-      <screen x="89" y="0" width="1447" height="864" />
+    <state x="430" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603623559502">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="430" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1603623559502" />
     <state x="494" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/89.0.1447.864@89.0.1447.864" timestamp="1600247954072" />
     <state x="840" y="177" key="FileChooserDialogImpl" timestamp="1600256290816">
       <screen x="89" y="0" width="1447" height="864" />
     </state>
     <state x="840" y="177" key="FileChooserDialogImpl/89.0.1447.864@89.0.1447.864" timestamp="1600256290816" />
-    <state x="411" y="20" key="SettingsEditor" timestamp="1603270245779">
-      <screen x="89" y="0" width="1447" height="864" />
+    <state x="342" y="20" key="SettingsEditor" timestamp="1603623929809">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="342" y="20" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603623929809" />
     <state x="411" y="20" key="SettingsEditor/89.0.1447.864@89.0.1447.864" timestamp="1603270245779" />
-    <state x="655" y="164" key="Vcs.Push.Dialog.v2" timestamp="1600271455543">
+    <state x="655" y="164" key="Vcs.Push.Dialog.v2" timestamp="1603270671513">
       <screen x="89" y="0" width="1447" height="864" />
     </state>
-    <state x="655" y="164" key="Vcs.Push.Dialog.v2/89.0.1447.864@89.0.1447.864" timestamp="1600271455543" />
+    <state x="655" y="164" key="Vcs.Push.Dialog.v2/89.0.1447.864@89.0.1447.864" timestamp="1603270671513" />
     <state x="861" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600256311764">
       <screen x="89" y="0" width="1447" height="864" />
     </state>
